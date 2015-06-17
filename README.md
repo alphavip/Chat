@@ -17,7 +17,7 @@
 以及一些我自己写的功能模块
 服务端
 --
-使用了[mongodb](https://www.mongodb.org/)数据库
+使用了[mongodb](https://www.mongodb.org/)数据库   
 使用了sharp模块处理图片 安装了[sharp](https://github.com/lovell/sharp)才能运行起来
 
 演示
