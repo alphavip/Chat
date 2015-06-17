@@ -9,7 +9,7 @@
 1.AsyncSocket   
 2.Emoji   
 3.TheAmazingAudioEngine   
-
+以及一些我自己写的功能模块
 服务端
 --
 服务器端使用了sharp模块处理图片 安装了[sharp](https://github.com/lovell/sharp)才能运行起来
