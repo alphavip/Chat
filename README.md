@@ -11,7 +11,7 @@
 
 服务端
 --
-服务器端使用了sharp模块处理图片 安装了sharp才能运行起来
+服务器端使用了sharp模块处理图片 安装了[sharp](https://github.com/lovell/sharp)才能运行起来
 
 演示
 --
